@@ -29,7 +29,7 @@ ABOUT_TEXT = """**About Me**
 
 - **Bot :** `Telegraph Uploader`
 - **Developer :**
-  • [Update](https://telegram.me/synaxnetwork
+  • [Update](https://telegram.me/synaxnetwork)
   • [Telegram](https://telegram.me/s4n6x)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)"""
@@ -160,4 +160,3 @@ async def getmedia(bot, update):
 
 
 Bot.run()
-
